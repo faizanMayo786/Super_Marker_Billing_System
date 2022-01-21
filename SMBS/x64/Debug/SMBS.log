@@ -1,0 +1,8 @@
+﻿  SMBS.cpp
+  bill.cpp
+C:\Users\92347\Desktop\Desktop\OOP\C++\SMBS_Project\SMBS\bill.cpp(168): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\92347\Desktop\Desktop\OOP\C++\SMBS_Project\SMBS\bill.cpp(175): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  item.cpp
+C:\Users\92347\Desktop\Desktop\OOP\C++\SMBS_Project\SMBS\item.cpp(102): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  SMBS.vcxproj -> C:\Users\92347\Desktop\Desktop\OOP\C++\SMBS_Project\x64\Debug\SMBS.exe
